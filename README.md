@@ -61,7 +61,7 @@
 
 ## 🎓 Education
 
-- **컴퓨터공학 학사** @ [University Name](https://university.com)  
+- **컴퓨터공학 학사** @ [Pukyong national university](https://university.com)  
   2018년 3월 – 2022년 2월  
   - 주요 과목: 데이터베이스, 알고리즘, 운영체제, 소프트웨어 공학
 
