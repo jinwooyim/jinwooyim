@@ -47,13 +47,13 @@
 
 ## 💼 Experience
 
-- **프론트엔드 개발자** @ [Your Company](https://yourcompany.com)  
-  2022년 6월 – 현재  
+- **프론트엔드 개발** @ [KH Academy](https://kh-academy.co.kr)  
+  2025년 1월 – 2025년 2월  
   - React, JavaScript, HTML, CSS로 UI 개발  
   - API 연동 및 상태 관리 (Redux, Context API 사용)
 
-- **백엔드 개발자** @ [Another Company](https://anothercompany.com)  
-  2021년 1월 – 2022년 5월  
+- **백엔드 개발** @ [KH Academy](https://kh-academy.co.kr)  
+  2021년 3월 – 현재  
   - Spring Framework를 사용한 REST API 개발  
   - 데이터베이스 설계 및 쿼리 최적화
 
@@ -61,8 +61,8 @@
 
 ## 🎓 Education
 
-- **컴퓨터공학 학사** @ [Pukyong national university](https://university.com)  
-  2018년 3월 – 2022년 2월  
+- **기계시스템공학 학사** @ [Pukyong national university](https://university.com)  
+  2017년 3월 – 2025년 2월  
   - 주요 과목: 데이터베이스, 알고리즘, 운영체제, 소프트웨어 공학
 
 ---
