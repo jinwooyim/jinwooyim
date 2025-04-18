@@ -1,4 +1,3 @@
-<!-- README.md -->
 <h1 align="center">🌟 Welcome to My GitHub World 🌟</h1>
 
 <p align="center">
@@ -9,11 +8,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 전공: 기계시스템공학과<br>
-- 🌱 관심: **프론트엔드, 백엔드 모두 다룰 줄 아는 개발자**<br>
-- 💬 motto: “배움은 멈추지 않는다.”<br>
-- 🧰 Stack: React, Spring, AJAX, jQuery, Java...<br>
-- 🌍 Portfolio: [My Portfolio](https://www.notion.so/KH-17d9da80c46b808da016ede5bb9baf1a?pvs=11)<br>
+- 🎓 전공: 기계시스템공학과<br><br>
+- 🌱 관심: **프론트엔드, 백엔드 모두 다룰 줄 아는 개발자**<br><br>
+- 💬 motto: _“배움은 멈추지 않는다.”_<br><br>
+- 🧰 Stack: React, Spring, AJAX, jQuery, Java...<br><br>
+- 🌍 Portfolio: [My Portfolio](https://www.notion.so/KH-17d9da80c46b808da016ede5bb9baf1a?pvs=11)<br><br>
 - 📫 Contact: **t01089467102@gmail.com**
 
 ---
@@ -34,16 +33,26 @@
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinwooyim&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooyim&layout=compact&theme=radical" height="180"/>
-</p>
+- **프론트엔드 개발자** @ [Your Company](https://yourcompany.com)  
+  2022년 6월 – 현재  
+  - React, JavaScript, HTML, CSS로 UI 개발  
+  - API 연동 및 상태 관리 (Redux, Context API 사용)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+- **백엔드 개발자** @ [Another Company](https://anothercompany.com)  
+  2021년 1월 – 2022년 5월  
+  - Spring Framework를 사용한 REST API 개발  
+  - 데이터베이스 설계 및 쿼리 최적화
+
+---
+
+## 🎓 Education
+
+- **컴퓨터공학 학사** @ [University Name](https://university.com)  
+  2018년 3월 – 2022년 2월  
+  - 주요 과목: 데이터베이스, 알고리즘, 운영체제, 소프트웨어 공학
+
 ---
 
 ## 💎 Featured Projects
