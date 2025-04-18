@@ -2,7 +2,7 @@
 <h1 align="center">🌟 Welcome to My GitHub World 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+LimJinWoo+👋;Frontend+%2B+Backend+Developer+🚀;Love+React%2C+Spring%2C+AJAX+and+more!;Welcome+to+my+dev+space!+💡" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=LimJinWoo's%20GitHub&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
