@@ -9,12 +9,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 ##### 전공: 기계시스템공학과
-- 🌱 관심: **프론트엔드, 백엔드 모두 다룰 줄 아는 개발자**
-- 💬 motto: _“배움은 멈추지 않는다.”_
-- 🧰 Stack: React, Spring, AJAX, jQuery, Java...
-- 🌍 Portfolio: [My Portfolio](https://www.notion.so/KH-17d9da80c46b808da016ede5bb9baf1a?pvs=11)
-- 📫 Contact: **t01089467102@gmail.com**
+<p style="font-size: 18px;">
+  - 🎓 전공: 기계시스템공학과  
+  - 🌱 관심: **프론트엔드, 백엔드 모두 다룰 줄 아는 개발자**  
+  - 💬 motto: _“배움은 멈추지 않는다.”_  
+  - 🧰 Stack: React, Spring, AJAX, jQuery, Java...  
+  - 🌍 Portfolio: [My Portfolio](https://www.notion.so/KH-17d9da80c46b808da016ede5bb9baf1a?pvs=11)  
+  - 📫 Contact: **t01089467102@gmail.com**
+</p>
 
 ---
 
