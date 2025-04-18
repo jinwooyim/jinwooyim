@@ -97,3 +97,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub following](https://img.shields.io/github/following/yourusername?style=social)
