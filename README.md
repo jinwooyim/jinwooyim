@@ -33,6 +33,19 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinwooyim&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooyim&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 💼 Experience
 
 - **프론트엔드 개발자** @ [Your Company](https://yourcompany.com)  
