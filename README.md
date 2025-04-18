@@ -2,7 +2,7 @@
 <!-- README.md -->
 <h1 align="center">✨ Welcome to My GitHub World ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+YourName+👋;Frontend+Developer+%F0%9F%92%BB;Lifelong+Learner+📚;Welcome+to+my+page!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+jinwooyim+👋;Frontend+Developer+%F0%9F%92%BB;Lifelong+Learner+📚;Welcome+to+my+page!+💡" alt="Typing SVG" />
 </p>
 
 ---
