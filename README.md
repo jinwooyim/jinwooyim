@@ -53,7 +53,7 @@
   - API 연동 및 상태 관리 (Redux, Context API 사용)
 
 - **백엔드 개발** @ [KH Academy](https://kh-academy.co.kr)  
-  2021년 3월 – 현재  
+  2025년 3월 – 현재  
   - Spring Framework를 사용한 REST API 개발  
   - 데이터베이스 설계 및 쿼리 최적화
 
