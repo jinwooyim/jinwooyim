@@ -4,7 +4,6 @@
   <img src="https://github.com/jinwooyim/jinwooyim/blob/main/images/git_profile_img.png?raw=true" alt="Banner" width="100%"/>
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
