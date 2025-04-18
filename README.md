@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=LimJinWoo's%20GitHub&fontSize=35&fontColor=ffffff" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/jinwooyim/jinwooyim/blob/main/images/git_profile_img.png?raw=true" alt="Banner" width="100%"/>
+</p>
 ---
 
 ## 🧑‍💻 About Me
