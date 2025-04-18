@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-<p style="font-size: 18px; line-height: 1.8;">
+<p style="font-size: 130px; line-height: 2.6;">
   - 🎓 전공: 기계시스템공학과 <br>
   - 🌱 관심: **프론트엔드, 백엔드 모두 다룰 줄 아는 개발자** <br>
   - 💬 motto: _“배움은 멈추지 않는다.”_ <br>
