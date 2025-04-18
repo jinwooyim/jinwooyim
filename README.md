@@ -2,7 +2,13 @@
 <h1 align="center">🌟 Welcome to My GitHub World 🌟</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=LimJinWoo's%20GitHub&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85FFBD,100:FFFB7D&height=150&section=header&text=LimJinWoo's%20GitHub&fontSize=35&fontColor=000000" />
+</p>
+
+<h2 align="center">👋 Hello! I'm <strong>LimJinWoo</strong>, a creative developer who loves building cool stuff 💻</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
 </p>
 
 ---
